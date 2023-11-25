@@ -83,7 +83,7 @@ section-p4 {
     color: aqua;
     font-size: 1.2rem;
     font-weight: bold;
-    transition: 0.1s;
+    transition: 0.001s;
     overflow: hidden;
     margin-left: 20px;
     margin-right: 20px;
