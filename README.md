@@ -1,2 +1,2 @@
-# WYA-
+# WYA
 Who You Are?
